@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Notes&amp;Schedules</string>
+
+    <!-- Activity Main -->
+    <!-- Aligned text to center on the inform one-->
+    <string name="tvInform">Welcome to the Notes app, choose an option</string>
+    <string name="btnNotes">Make a Note</string>
+    <string name="btnSchedules">Schedule Ahead</string>
+
+    <!-- Fragment Note -->
+    <!-- This is the view of saved notes -->
+    <string name="tvNotesListLabel">Saved Notes</string>
+    <string name="btnBack">Back</string>
+    <string name="btnAddNote">Add Note</string>
+    <!-- And then the list of notes which I don't know how to edit yet,
+but will learn from the exercises in class or from external resources -->
+
+    <!-- Fragment Write Note -->
+    <!-- The Note itself which will be opened by the note page strings -->
+    <string name="btnBackText">Back</string>
+    <string name="btnSaveText">Save</string>
+    <string name="tvTextHead">Title of the note</string>
+    <string name="tpNoteText">You can type your note in here</string>
+
+    <!-- Fragment Schedules -->
+    <string name="tvSchedulesListLabel">List of your Schedules</string>
+    <string name="btnSchedulesBack">Back</string>
+    <string name="btnNewSchedule">New Schedule</string>
+
+    <!-- Add Schedules Fragment -->
+    <string name="ptScheduleName">Enter the Schedule name</string>
+    <string name="nbTime">Enter Time</string>
+    <string name="ptDate">Enter Date</string>
+    <string name="btnSaveNewSchedule">Save Schedule</string>
+
+</resources>
